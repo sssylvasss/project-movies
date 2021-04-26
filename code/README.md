@@ -1,19 +1,10 @@
-# Technigo React Starter App
+# Project Movies
 
-This app has been generated using `create-react-app`, then cleaned up a little so we have a project with just the elements we need to get started.
+We were asked to create a page listing movies according to an API and when clicking a movie, to be redirected to a page with further details. The details page required a new fetch.
 
-Add components in the `src` folder and use them in `src/app.js` to get started.
+## The problem
 
-## Usage
+We began by following the outline of this weeks documentation which clearly showed how to solve the problem. We had som struggles with paths and params, but through trial-and-error we solved them. The largest issue was almost styling and we learned a lor here (for example setting background image in a div using inline style to be able to use a path in the src). If we had more time we would have liked to have tried to make a "next" button the details page which would bring you to the next movie in the MovieList.
 
-1. On GitHub, click the 'use this template' button to create a new repo on your account
-1. Clone the new repo to your computer
-1. Install required dependencies with npm: `npm install`
-1. Start the project: `npm start`
-
-Alternatively, if you don't want a new git repo on your account;
-
-1. Download & extract the [latest release](https://github.com/Technigo/react-starter/releases/latest) from GitHub
-1. Open the directory in the terminal: `cd /path/to/react-starter`
-1. Install required dependencies with npm: `npm install`
-1. Start the project: `npm start`
+## View it live
+https://ylva-hannah-videomys.netlify.app
